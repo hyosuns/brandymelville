@@ -12,3 +12,7 @@
   box-shadow: none;
   border: none;
 }
+
+.ui.container {
+  width: 950px;
+}
