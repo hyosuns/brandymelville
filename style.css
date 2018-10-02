@@ -1,0 +1,14 @@
+.ui.borderless.topmenu.menu{
+  box-shadow: none;
+  border: none;
+}
+
+.ui.borderless.middlemenu.menu {
+  box-shadow: none;
+  border: none;
+}
+
+.ui.borderless.bottommenu.menu {
+  box-shadow: none;
+  border: none;
+}
