@@ -1,31 +1,30 @@
-body{
-  font-family: Georgia;
-  color: lightgrey;
-  font-size: 10px;
-}
-
-.ui.borderless.topmenu.menu{
-  box-shadow: none;
-  border: none;
-}
-
-.ui.borderless.middlemenu.menu {
-  box-shadow: none;
-  border: none;
-}
-
-.ui.borderless.bottommenu.menu {
-  box-shadow: none;
-  border: none;
-}
 
 .ui.container {
   width: 950px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: grey;
+}
+.ui.dropdown.fitted.item{
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: grey;
 }
 
+.ui.borderless.topmenu.menu{
+  font-family: Georgia, "Times New Roman", Times, serif;
+  box-shadow: none;
+  border: none;
+  font-size: 11px;
+}
+
+.ui.borderless.middlemenu.menu{
+  font-family: Georgia, "Times New Roman", Times, serif;
+  box-shadow: none;
+  border: none;
+}
 
 .footer-background {
-  height: 300px;
-  padding-top: 40px;
-  padding-bottom: 40px;
+  height: 100px;
+  padding-top: 50px;
+  padding-left: 120px;
+  padding-right: 120px;
 }
