@@ -2,22 +2,40 @@
 .ui.container {
   width: 950px;
   font-family: Georgia, "Times New Roman", Times, serif;
-  color: grey;
+  color: lightgrey;
 }
 .ui.dropdown.fitted.item{
   font-family: Georgia, "Times New Roman", Times, serif;
-  color: grey;
+  color: lightgrey;
 }
 
-.ui.borderless.topmenu.menu{
+.ui.borderless.topmenu.menu a{
   font-family: Georgia, "Times New Roman", Times, serif;
+  color: lightgrey;
+}
+
+.ui.borderless.topmenu.menu p{
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: lightgrey;
+}
+
+.ui.borderless.topmenu.menu {
   box-shadow: none;
   border: none;
   font-size: 11px;
 }
 
-.ui.borderless.middlemenu.menu{
+.ui.borderless.middlemenu.menu a {
   font-family: Georgia, "Times New Roman", Times, serif;
+  color: lightgrey;
+}
+
+.ui.borderless.middlemenu.menu p {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: lightgrey;
+}
+
+.ui.borderless.middlemenu.menu{
   box-shadow: none;
   border: none;
 }
